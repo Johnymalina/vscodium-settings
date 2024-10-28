@@ -1,0 +1,74 @@
+disabled: []
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: BeardedBear.beardedicons
+    uuid: 1b7bdcac-09ba-421c-bdde-081928177de7
+  - id: chrismeyers.vscode-pretty-json
+    uuid: 4634def6-be5a-4c84-9265-194b84062cc4
+  - id: dqisme.sync-scroll
+    uuid: 2538fb3a-730c-4259-9044-7cf831516769
+  - id: ecmel.vscode-html-css
+    uuid: aaee577c-f062-495a-9816-0cbd442f1d25
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: ESPHome.esphome-vscode
+    uuid: b48b693e-8a2d-4491-a373-c98cde694c27
+  - id: george-alisson.html-preview-vscode
+    uuid: 18b0ddc7-5d9c-4604-a7fa-10e66a2cb10d
+  - id: gizak.shortcuts
+    uuid: ee7402cb-a292-4894-84b1-a024ca8d8bb5
+  - id: Gruntfuggly.triggertaskonsave
+    uuid: d165ee3e-9bb1-4d30-b415-b6592cfffc3f
+  - id: jeff-hykin.better-cpp-syntax
+    uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
+  - id: kamikillerto.vscode-colorize
+    uuid: 445ba381-f232-4150-9056-d790bd76d698
+  - id: keesschollaart.vscode-home-assistant
+    uuid: d2d3c048-6fab-4e8f-a618-c1b9559cfd56
+  - id: marlinfirmware.auto-build
+    uuid: aeed6cc8-3e27-4932-8212-161d73cdee2d
+  - id: mdickin.markdown-shortcuts
+    uuid: a4f91432-1b7d-4acd-b906-76d8ac8ad7e7
+  - id: Meezilla.json
+    uuid: e7bc27f0-a7f2-441b-b9df-103e37bd1e58
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-vscode-remote.remote-ssh
+    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
+  - id: ms-vscode-remote.remote-ssh-edit
+    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: ms-vscode.remote-explorer
+    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
+  - id: netcorext.uuid-generator
+    uuid: 802d93e3-0926-4d33-8408-b00d92d6cd0c
+  - id: NilsSoderman.batch-runner
+    uuid: 8eef5635-0f55-4d3c-8838-567f733b4a94
+  - id: platformio.platformio-ide
+    uuid: 6cf182b2-70cf-433e-97f2-45f414c9ad89
+  - id: redhat.vscode-yaml
+    uuid: 2061917f-f76a-458a-8da9-f162de22b97e
+  - id: shalimski.swapdiff
+    uuid: d8b70e19-dfd4-44d7-9807-2c0ad5ecabae
+  - id: sketchbuch.vsc-workspace-sidebar
+    uuid: a7f293f2-fec9-4226-9987-7520ebe9cc01
+  - id: streetsidesoftware.code-spell-checker
+    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: tumido.cron-explained
+    uuid: 6ee451cb-7b81-4520-9eb4-059db43a1431
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: wmaurer.change-case
+    uuid: 2aa040bf-c73a-455d-8946-5c6cc83b8019
+  - id: Wokwi.wokwi-vscode
+    uuid: 51c34fa3-18ea-4f95-aae8-1dbe5438fe31
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

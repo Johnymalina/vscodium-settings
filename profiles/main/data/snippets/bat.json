@@ -1,0 +1,22 @@
+{
+  "Print to console": {
+    "prefix": "echo",
+    "body": ["echo $1"],
+    "description": "Log output to console"
+  },
+  "Divider to console": {
+    "body": ["echo ============================================", "$0"],
+    "description": "Create divider in console usin = symbols.",
+    "prefix": "div"
+  },
+  "Pause": {
+    "body": ["pause", "$0"],
+    "description": "Create pause in script",
+    "prefix": "pause"
+  },
+  "Clear terminal": {
+    "body": ["cls", "$0"],
+    "description": "Clear terminal window",
+    "prefix": "cls"
+  }
+}

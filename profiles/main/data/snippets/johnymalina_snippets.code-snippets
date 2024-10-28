@@ -1,0 +1,60 @@
+{
+  "Code signature": {
+    "prefix": "sign",
+    "body": [
+      "/*\n",
+      "Name: ${1:}\n",
+      "Author: ${2:Jakub Čihánek}\n",
+      "First created: $CURRENT_DATE.$CURRENT_MONTH.$CURRENT_YEAR $CURRENT_HOUR:$CURRENT_MINUTE\n",
+      "Version: 1\n",
+      "Last Updated: $CURRENT_DATE.$CURRENT_MONTH.$CURRENT_YEAR\n",
+      "Description: ${3:}",
+      "\n*/$0"
+    ],
+    "description": "Add project description and signature"
+  },
+  "Header file definition": {
+    "prefix": "ifndef",
+    "body": [
+      "#ifndef ${1:}",
+      "#define ${1:}\n",
+      "#endif\n$0"
+    ],
+    "description": "Add header file definition"
+  },
+  "Warning comment": {
+    "body": [
+      "",
+      "// ! WARNING ${1:}\n",
+      "$0"
+    ],
+    "description": "Creates a WARNING comment.",
+    "prefix": "//!"
+  },
+  "Idea comment": {
+    "body": [
+      "",
+      "// ? IDEA ${1:}\n",
+      "$0"
+    ],
+    "description": "Creates a IDEA comment.",
+    "prefix": "//?"
+  },
+  "ToDo comment": {
+    "body": [
+      "",
+      "// TODO ${1:}\n",
+      "$0"
+    ],
+    "description": "Creates a TODO comment.",
+    "prefix": "//TD"
+  },
+  "Info comment": {
+    "body": [
+      "// INFO ${1:}\n",
+      "$0"
+    ],
+    "description": "Creates a INFO comment.",
+    "prefix": "//I"
+  },
+}

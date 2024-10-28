@@ -1,0 +1,135 @@
+{
+  "auto-build.defaultEnv.name": "LPC1768",
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.enableSmartCommit": true,
+  "editor.formatOnSave": true,
+  "editor.snippetSuggestions": "top",
+  "git.confirmSync": false,
+  "remote.SSH.remotePlatform": {
+    "HomeAssistant": "linux",
+    "Hassio": "linux",
+    "OMV": "linux",
+    "192.168.1.3": "linux",
+    "omv-remote": "linux",
+    "31.165.208.204": "linux",
+    "192.168.1.202": "linux",
+    "thehorde-server": "linux",
+    "thehorde-omv": "linux",
+    "192.168.1.69": "linux",
+    "server": "linux",
+    "server-proxmox": "linux",
+    "omv": "linux",
+    "hassio": "linux",
+    "nas": "linux",
+    "10.10.42.102": "linux",
+    "10.10.42.201": "linux",
+    "backup": "linux",
+    "10.10.42.234": "linux",
+    "print": "linux"
+  },
+  "esphome.dashboardUri": "http://10.10.42.4:6052",
+  "esphome.validator": "dashboard",
+  "git.autofetch": true,
+  "workbench.startupEditor": "none",
+  "redhat.telemetry.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "workspaceSidebar.depth": 2,
+  "git.postCommitCommand": "push",
+  "explorer.confirmDelete": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "auto-build.build.silent": false,
+  "shortcuts.buttons": [
+    "file-code, json, Format JSON File",
+    "browser, html.showPreviewToSide, Preview HTML"
+  ],
+  "settingsSync.ignoredSettings": [],
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "settingsSync.ignoredExtensions": [],
+  "cSpell.userWords": [
+    "Adafruit",
+    "autofetch",
+    "BIGTREE",
+    "Consolas",
+    "debugln",
+    "esphome",
+    "hassio",
+    "mqtt",
+    "thehorde",
+    "wdebug",
+    "wdebugln",
+    "WEBSERIAL",
+    "WEBSERIAL_DEBUG",
+    "XVCJ"
+  ],
+  "better-comments.highlightPlainText": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "info",
+      "color": "#D8F1A0",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "workbench.iconTheme": "bearded-icons",
+  "editor.fontSize": 15,
+  "editor.wordWrap": "on",
+  "cron-explained.codeLens.enabled": false,
+  "cron-explained.hover.enabled": true,
+  "vscode-home-assistant.hostUrl": "https://ha.thehorde.page",
+  "vscode-home-assistant.longLivedAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJkMjUxNTcxNWQxNzM0Mzc3ODJlZmU1M2RkNGNmYTJmNSIsImlhdCI6MTcwNDc0NzE0MSwiZXhwIjoyMDIwMTA3MTQxfQ.KeBMhfTSTXca2J833hmjQ1XAafKxcu7WGi91JW_r-Rw",
+  "window.customTitleBarVisibility": "auto",
+  "window.titleBarStyle": "custom",
+  "workspaceSidebar.rootFolders": [
+    {
+      "path": "C://Users//Kuba//Repositories"
+    }
+  ],
+  "markdown.extension.toc.slugifyMode": "gitea",
+  "cmake.options.statusBarVisibility": "visible",
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "cmake.useCMakePresets": "always",
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "cmake.showOptionsMovedNotification": false,
+  "triggerTaskOnSave.on": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vscode-note.notespath": "H:\\Dokumenty\\notes",
+  "Notes.notesLocation": "h:\\Dokumenty\\notes",
+  "platformio-ide.autoOpenPlatformIOIniFile": false
+}
